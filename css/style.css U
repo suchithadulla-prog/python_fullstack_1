@@ -19,3 +19,14 @@ header{
     padding:30px;
     text-align:center;
 }
+hr{
+    margin: 20px 0;
+}
+nav{
+    background-color: #fbfbfb;
+    justify-content: center;
+    gap:25px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    display: flex;
+}
